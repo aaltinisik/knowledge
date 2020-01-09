@@ -9,6 +9,8 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo12-addon-document_page',
+        'odoo12-addon-document_page_approval',
+        'odoo12-addon-document_page_project',
         'odoo12-addon-document_url',
         'odoo12-addon-knowledge',
     ],
